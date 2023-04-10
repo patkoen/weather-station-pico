@@ -2,5 +2,5 @@
  
  
 <!--
-![Hexabot](/img/Hexabot_Model_v1.png)
+![Hexabot](/img/GUI.PNG)
 -->
