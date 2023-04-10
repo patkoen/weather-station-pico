@@ -2,5 +2,5 @@
  
  
 <!--
-![Hexabot](/img/GUI.PNG)
+![weather-station-pico](/img/GUI.PNG)
 -->
