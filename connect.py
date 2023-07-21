@@ -2,8 +2,8 @@ import network
 import time
 import rp2
 
-ssid= ""
-password=""
+ssid = ""
+password = ""
 
 def connect():
     rp2.country("AT")
